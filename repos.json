@@ -1,6 +1,6 @@
 {
         "https://github.com/Akshaidevopscc/jaffle_shop": {
-            "path": "/appz/home/airflow/dags/dbt/jaffle_shop",
+            "path": "/appz/home/airflow/dags/jaffle_shop",
             "branch": "main",
             "email": ["asurendran@ecloudcontrol.com"],
             "group": "data-eng"
