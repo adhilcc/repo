@@ -2,19 +2,19 @@
         "https://github.com/Akshaidevopscc/jaffle_shop": {
             "path": "/appz/home/airflow/dags/jaffle_shop",
             "branch": "main",
-            "email": ["asurendran@ecloudcontrol.com"],
+            "email": ["aahammed@ecloudcontrol.com"],
             "group": "data-eng"
         },
         "https://github.com/Akshaidevopscc/airflow_dags": {
             "path": "/appz/home/airflow/dags/airflow_dags",
             "branch": "main",
-            "email": ["asurendran@ecloudcontrol.com"],
+            "email": ["aahammed@ecloudcontrol.com"],
             "group": "data-eng"
         },
         "https://github.com/Akshaidevopscc/agent_dags": {
             "path": "/appz/home/airflow/dags/agent_dags",
             "branch": "main",
-            "email": ["asurendran@ecloudcontrol.com"],
+            "email": ["aahammed@ecloudcontrol.com"],
             "group": "data-eng"
         }
 }
