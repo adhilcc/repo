@@ -16,5 +16,11 @@
             "branch": "main",
             "email": ["aahammed@ecloudcontrol.com"],
             "group": "data-eng"
+        },
+        "https://github.com/Adhil-ahammed/test-airflow-dags.git": {
+            "path": "/appz/home/airflow/dags/test-airflow-dags",
+            "branch": "main",
+            "email": ["aahammed@ecloudcontrol.com"],
+            "group": "data-eng"
         }
 }
