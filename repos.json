@@ -1,23 +1,23 @@
 {
-        "https://github.com/Adhil-ahammed/jaffle_shop": {
+        "https://github.com/adhilcc/jaffle_shop": {
             "path": "/appz/home/airflow/dags/jaffle_shop",
             "branch": "main",
             "email": ["aahammed@ecloudcontrol.com"],
             "group": "data-eng"
         },
-        "https://github.com/Adhil-ahammed/airflow_dags": {
+        "https://github.com/adhilcc/airflow_dags": {
             "path": "/appz/home/airflow/dags/airflow_dags",
             "branch": "main",
             "email": ["aahammed@ecloudcontrol.com"],
             "group": "data-eng"
         },
-        "https://github.com/Adhil-ahammed/agent_dags": {
+        "https://github.com/adhilcc/agent_dags": {
             "path": "/appz/home/airflow/dags/agent_dags",
             "branch": "main",
             "email": ["aahammed@ecloudcontrol.com"],
             "group": "data-eng"
         },
-        "https://github.com/Adhil-ahammed/test-airflow-dags": {
+        "https://github.com/adhilcc/test-airflow-dags": {
             "path": "/appz/home/airflow/dags/test-airflow-dags",
             "branch": "main",
             "email": ["aahammed@ecloudcontrol.com"],
