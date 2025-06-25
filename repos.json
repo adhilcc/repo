@@ -28,5 +28,11 @@
             "branch": "main",
             "email": ["aahammed@ecloudcontrol.com"],
             "group": "data-eng"
+        },
+        "https://github.com/adhilcc/agent_dags2": {
+            "path": "/appz/home/airflow/dags/agent_dags2",
+            "branch": "main",
+            "email": ["aahammed@ecloudcontrol.com"],
+            "group": "data-eng"
         }
 }
