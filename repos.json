@@ -11,12 +11,6 @@
             "email": ["aahammed@ecloudcontrol.com"],
             "group": "data-eng"
         },
-        "https://github.com/lowtouch-ai/agent_dags": {
-            "path": "/appz/home/airflow/dags/agent_dags",
-            "branch": "8577/adding_test_cases",
-            "email": ["aahammed@ecloudcontrol.com"],
-            "group": "data-eng"
-        },
         "https://github.com/adhilcc/test-airflow-dags": {
             "path": "/appz/home/airflow/dags/test-airflow-dags",
             "branch": "main",
