@@ -22,5 +22,11 @@
             "branch": "main",
             "email": ["aahammed@ecloudcontrol.com"],
             "group": "data-eng"
+        },
+        "https://github.com/lowtouch-ai/agent_dags": {
+            "path": "/appz/home/airflow/dags/agent_dags",
+            "branch": "main",
+            "email": ["aahammed@ecloudcontrol.com"],
+            "group": "data-eng"
         }
 }
