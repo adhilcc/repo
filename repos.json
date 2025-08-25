@@ -28,5 +28,12 @@
             "branch": "9095/webshop_slake",
             "email": ["aahammed@ecloudcontrol.com"],
             "group": "data-eng"
+        },
+        "https://github.com/adhilcc/object_dag_test": {
+            "path": "/appz/home/airflow/dags/object_dag_test",
+            "branch": "main",
+            "email": ["aahammed@ecloudcontrol.com"],
+            "group": "data-eng"
         }
+        
 }
