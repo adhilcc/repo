@@ -25,7 +25,7 @@
         },
         "https://github.com/lowtouch-ai/agent_dags": {
             "path": "/appz/home/airflow/dags/agent_dags",
-            "branch": "9442/sitemap_parsing_slake",
+            "branch": "9223/invoflux slake",
             "email": ["aahammed@ecloudcontrol.com"],
             "group": "data-eng"
         },
