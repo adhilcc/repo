@@ -17,8 +17,8 @@
             "email": ["aahammed@ecloudcontrol.com"],
             "group": "data-eng"
         },
-         "https://github.com/adhilcc/data-engineering-with-data-build-tool-dbt-4458303": {
-            "path": "/appz/home/airflow/dags/data-engineering",
+         "https://github.com/adhilcc/streamlit": {
+            "path": "/appz/home/streamlit",
             "branch": "main",
             "email": ["aahammed@ecloudcontrol.com"],
             "group": "data-eng"
