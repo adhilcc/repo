@@ -18,7 +18,7 @@
             "group": "data-eng"
         },
          "https://github.com/adhilcc/streamlit": {
-            "path": "/appz/home/streamlit",
+            "path": "/appz/home/streamlit/hello/",
             "branch": "main",
             "email": ["aahammed@ecloudcontrol.com"],
             "group": "data-eng"
