@@ -23,12 +23,6 @@
             "email": ["aahammed@ecloudcontrol.com"],
             "group": "data-eng"
         },
-        "https://github.com/lowtouch-ai/agent_dags": {
-            "path": "/appz/home/airflow/dags/agent_dags",
-            "branch": "9223/Invoflux_slake",
-            "email": ["aahammed@ecloudcontrol.com"],
-            "group": "data-eng"
-        },
         "https://github.com/adhilcc/object_dag_test": {
             "path": "/appz/home/airflow/dags/object_dag_test",
             "branch": "main",
