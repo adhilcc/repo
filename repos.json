@@ -28,6 +28,12 @@
             "branch": "main",
             "email": ["aahammed@ecloudcontrol.com"],
             "group": "data-eng"
+        },
+        "https://github.com/Cloudbourne/apexa_agent": {
+            "path": "/appz/home/airflow/dags/apexa_agent",
+            "branch": "main",
+            "email": ["lowtouchai-demo@ecloudcontrol.com"],
+            "group": "aiops"
         }
         
 }
