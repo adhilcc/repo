@@ -1,7 +1,7 @@
 {
-        "https://github.com/adhilcc/jaffle_shop": {
+        "https://github.com/lowtouch-ai/jaffle_shop": {
             "path": "/appz/home/airflow/dags/jaffle_shop",
-            "branch": "main",
+            "branch": "10901/dbt_fusion_jaffleshop",
             "email": ["aahammed@ecloudcontrol.com"],
             "group": "data-eng"
         },
@@ -11,9 +11,9 @@
             "email": ["aahammed@ecloudcontrol.com"],
             "group": "data-eng"
         },
-        "https://github.com/adhilcc/test-airflow-dags": {
-            "path": "/appz/home/airflow/dags/test-airflow-dags",
-            "branch": "main",
+        "https://github.com/Cloudbourne/agent_workflows": {
+            "path": "/appz/home/airflow/dags/agent_workflows",
+            "branch": "10901/dbt_fusion_jaffleshop",
             "email": ["aahammed@ecloudcontrol.com"],
             "group": "data-eng"
         },
