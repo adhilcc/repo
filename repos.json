@@ -23,8 +23,8 @@
             "email": ["aahammed@ecloudcontrol.com"],
             "group": "data-eng"
         },
-        "https://github.com/adhilcc/object_dag_test": {
-            "path": "/appz/home/airflow/dags/object_dag_test",
+        "https://github.com/adhilcc/Airflow-3": {
+            "path": "/appz/home/airflow/dags/Airflow-3",
             "branch": "main",
             "email": ["aahammed@ecloudcontrol.com"],
             "group": "data-eng"
