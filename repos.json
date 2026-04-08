@@ -28,5 +28,17 @@
             "branch": "main",
             "email": ["aahammed@ecloudcontrol.com"],
             "group": "data-eng"
-        }        
+        },
+        "https://github.com/lowtouch-ai/marketing": {
+            "path": "/appz/home/marketing/seo",
+            "branch": "main",
+            "email": ["lowtouchai-demo@ecloudcontrol.com"],
+            "group": "marketing"
+        },
+        "https://github.com/lowtouch-ai/marketing-ecs": {
+            "path": "/appz/home/marketing/ecs",
+            "branch": "main",
+            "email": ["lowtouchai-demo@ecloudcontrol.com"],
+            "group": "marketing"
+        }
 }
