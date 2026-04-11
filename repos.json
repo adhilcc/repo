@@ -13,7 +13,7 @@
         },
         "https://github.com/Cloudbourne/agent_workflows": {
             "path": "/appz/home/airflow/dags/agent_workflows",
-            "branch": "10901/dbt_fusion_jaffleshop",
+            "branch": "10419/airflow-upgrade-3.0",
             "email": ["aahammed@ecloudcontrol.com"],
             "group": "data-eng"
         },
