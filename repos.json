@@ -13,7 +13,7 @@
         },
         "https://github.com/Cloudbourne/agent_workflows": {
             "path": "/appz/home/airflow/dags/agent_workflows",
-            "branch": "10419/airflow-upgrade-3.0",
+            "branch": "11271/webshop_reset_dag-fix",
             "email": ["aahammed@ecloudcontrol.com"],
             "group": "data-eng"
         },
